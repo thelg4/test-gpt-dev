@@ -1,0 +1,6 @@
+id,name,age,salary,department,start_date
+1,Alice,30,70000,Engineering,2018-01-15
+2,Bob,45,90000,Sales,2015-03-22
+3,Charlie,25,50000,Marketing,2020-07-01
+4,David,,60000,Engineering,2017-10-30
+5,Eva,35,NaN,HR,2019-05-20
